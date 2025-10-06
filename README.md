@@ -82,3 +82,5 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
 AI Security - https://t.me/AISecHub
 
 <!-- Auto-update: 2025-10-06T13:16:46.787281 -->
+
+<!-- Auto-update: 2025-10-06T20:20:29.778187 -->
